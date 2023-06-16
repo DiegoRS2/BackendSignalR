@@ -1,0 +1,52 @@
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\appsettings.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\BackendSignalR.exe
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\BackendSignalR.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\BackendSignalR.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\BackendSignalR.dll
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\bin\Debug\net7.0\BackendSignalR.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.BackendSignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.build.BackendSignalR.props
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BackendSignalR.props
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BackendSignalR.props
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\scopedcss\bundle\BackendSignalR.styles.css
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.dll
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\refint\BackendSignalR.dll
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\BackendSignalR.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\BackendSignalR\obj\Debug\net7.0\ref\BackendSignalR.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\appsettings.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\BackendSignalR.exe
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\BackendSignalR.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\BackendSignalR.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\BackendSignalR.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\bin\Debug\net7.0\BackendSignalR.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.BackendSignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.build.BackendSignalR.props
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BackendSignalR.props
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BackendSignalR.props
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\scopedcss\bundle\BackendSignalR.styles.css
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\refint\BackendSignalR.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\BackendSignalR.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\BackendSignalR\obj\Debug\net7.0\ref\BackendSignalR.dll
