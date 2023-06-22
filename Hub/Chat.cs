@@ -4,9 +4,10 @@ namespace BackendSignalR
 {
     public class Chat : Hub
     {
-        public void NewMensage(string userName, string message)
+        public Task SendMessage(string userName, string message)
         {
-            Clients.All.SendAsync("newMessage", userName, message);
+            return Clients.All.SendAsync("ReceiveMessage", userName, message);
         }
+
     }
 }
